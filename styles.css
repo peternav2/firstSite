@@ -1,0 +1,26 @@
+body {
+  background-color: #EFDAD7;
+  font-size: 20px;
+}
+h1{
+  color: #655D8A;
+}
+h3{
+  color:#1572A1;
+}
+hr {
+  border-style: dotted none none;
+  width:20%;
+  border-width: 15px;
+  margin-left: 0;
+  border-color:#54BAB9;
+
+}
+.blue {
+  color:blue;
+}
+.paragraph{
+  font-size: 17px;
+  margin-right: 400px;
+
+}
